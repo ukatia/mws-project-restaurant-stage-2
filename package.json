@@ -1,0 +1,28 @@
+{
+  "name": "mws-restaurant-stage-2",
+  "version": "1.0.0",
+  "description": "MWS course",
+  "main": "sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ukatia/mws-restaurant-stage-1.git"
+  },
+  "keywords": [
+    "restaurant"
+  ],
+  "author": "Katia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ukatia/mws-restaurant-stage-1/issues"
+  },
+  "homepage": "https://github.com/ukatia/mws-restaurant-stage-1#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-bro": "^1.0.3",
+    "gulp-inline-css": "^3.3.0",
+    "gulp-sass": "^4.0.1"
+  }
+}

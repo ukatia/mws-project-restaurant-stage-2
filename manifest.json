@@ -1,0 +1,24 @@
+{
+    "lang": "en-US",
+    "short_name": "MWS Restaurant app",
+    "name": "MWS Restaurant app stage 2",
+    "start_url": "/index.html",
+    "scope": "/",
+    "background_color": "#11277a",
+    "theme_color": "#f7aa3d",
+    "display": "standalone",
+    "orientation": "natural",
+    "icons": [
+        {
+          "src": "img/ic_launcher/ic_launcher_192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "img/ic_launcher/web_hi_res_512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
+}
+
